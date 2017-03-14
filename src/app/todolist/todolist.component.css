@@ -1,0 +1,13 @@
+h2
+{
+	color:red;
+}
+
+.delete-icon{
+	cursor:pointer;
+	color:red;
+}
+.checked
+{
+	text-decoration: line-through;
+}
